@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  /* 
+  .flex-container {
+    display: flex;
+    background-color: dodgerblue;
+  }
+  
+  .flex-container div {
+    width: 300px;
+    padding: 50px;
+    background-color: cadetblue;
+    margin: 10px;
+  } */
+  
+  /* Flex-container */
+  /* 1.flex-direction */
+  /* .flex-container {
+    display: flex;
+    flex-direction: column;
+    background-color: dodgerblue;
+  }
+  
+  .flex-container div {
+    width: 300px;
+    padding: 50px;
+    background-color: cadetblue;
+    margin: 10px;
+  } */
+  
+  /* 2.flex-wrap - sig'magan elementlarni pastga tushirib yuboradi  */
+  /* 
+  .flex-container {
+    display: flex;
+    background-color: dodgerblue;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+  }
+  
+  .flex-container div {
+    width: 300px;
+    height: 200px;
+    padding: 50px;
+    background-color: cadetblue;
+    margin: 10px;
+  } */
+  
+  /* 3.justify-content */
+  .flex-container {
+    display: flex;
+    background-color: dodgerblue;
+    justify-content: space-evenly;
+  }
+  
+  .flex-container div {
+    width: 200px;
+    height: 200px;
+    padding: 50px;
+    background-color: cadetblue;
+    margin: 10px;
+  }
+  
